@@ -17,10 +17,12 @@ easy_install -m package-name
 ```
 python setup.py install —record log
 ```
+
 这时所有的安装细节都写到 `log` 里了。
 想要卸载的时候
 
 ```
 cat log ｜ xagrs rm －rf
 ```
+
 就可以干净卸载了.
