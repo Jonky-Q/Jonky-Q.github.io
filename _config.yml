@@ -10,6 +10,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+highlighter: pygments
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+    extention: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
