@@ -5,6 +5,7 @@ date:   2015-09-03 15:28:32
 categories: git
 ---
 
+Git的用法在这里总结一下，偶有遗忘，常常需要回来复习，记录在此！
 
 参考了以下网络资源：
 廖雪峰Git官方教程，简单易懂，[点击这里](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -12,6 +13,8 @@ categories: git
 [Git常用命令总结](http://www.cnblogs.com/mengdd/p/4153773.html)
 
 [git rebase 使用](http://blog.csdn.net/witsmakemen/article/details/22661605)
+
+***
 
 ## git
 
