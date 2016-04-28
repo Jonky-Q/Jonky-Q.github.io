@@ -19,6 +19,7 @@ categories: Resources
 
 ***
 
+```
 ##Jena环境变量设置
 
 Jena3.0版本要求JDK必须要8.0以上版本，需要官网下载Jena及JDK对应的版本，并配置环境变量。
@@ -40,3 +41,4 @@ export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
 export JENAROOT=/opt/jena-3.0.1
 export CLASSPATH=.:$CLASSPATH:$JENAROOT/lib
 export PATH=$PATH:$JENAROOT/bin
+```

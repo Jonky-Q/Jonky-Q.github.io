@@ -8,6 +8,8 @@ categories: OWL Jena Protege RDF RDFS
 以下内容为调查语义网过程中一些知识的积累及问题的总结，以备后用！
 
 
+***
+
 ##相关资料整理
 
 [Apache Jena](http://jena.apache.org/index.html)
